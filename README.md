@@ -45,15 +45,15 @@ Preguntas
 ### Team Calendars
 
 * Permite planificar:
-* * Permisos, viajes y turnos.
-* * Proyectos y eventos
-* * Publicaciones, sprints e incidencias de Jira Software
+  * Permisos, viajes y turnos.
+  * Proyectos y eventos
+  * Publicaciones, sprints e incidencias de Jira Software
 * Dispone de vistas de timeline, mes y semana
 * Se integra con Gcal, iCal y Outlook
 
 ### Preguntas
 
-* Permite:
+Permite:
 * Preguntar, votar y responder.
 * Integración con búsqueda predictiva
 * Votar las respuestas y acumular puntos.
@@ -84,24 +84,24 @@ La versión Cloud de Confluence permite comenzar de forma rápida y sencilla a u
 #### la versión de alojamiento propio tiene dos versiones:
 
 * Server:
-* * Permite control total del entorno
-* * Se despliega en un único servidor
-* * Licencia perpetua y un año de mantenimiento
-* * Precios:
-* * * Hasta 10 usuarios: US$ 10 en pago único.
-* * * Hasta 25 usuarios: US$ 1500 en pago único.
-* * * Hasta 50 usuarios: US$ 2800 en pago único.
-* * * Hasta 100 usuarios: US$ 5100 en pago único. Etc.
+  * Permite control total del entorno
+  * Se despliega en un único servidor
+  * Licencia perpetua y un año de mantenimiento
+  * Precios:
+    * Hasta 10 usuarios: US$ 10 en pago único.
+    * Hasta 25 usuarios: US$ 1500 en pago único.
+    * Hasta 50 usuarios: US$ 2800 en pago único.
+    * Hasta 100 usuarios: US$ 5100 en pago único. Etc.
 
 * Data Center
-* * Permite control total del entorno
-* * Agrupación en clústeres activo-activo para lograr alta disponibilidad.
-* * Licencia anual + mantenimiento
-* * Recuperación ante desastres con asistencia de Atlassian
-* * Precios:
-* * * Hasta 500 usuarios: US$ 12000 al año.
-* * * Hasta 1000 usuarios: US$ 24000 al año.
-* * * Hasta 2000 usuarios: US$ 48000 al año. Etc.
+  * Permite control total del entorno
+  * Agrupación en clústeres activo-activo para lograr alta disponibilidad.
+  * Licencia anual + mantenimiento
+  * Recuperación ante desastres con asistencia de Atlassian
+  * Precios:
+    * Hasta 500 usuarios: US$ 12000 al año.
+    * Hasta 1000 usuarios: US$ 24000 al año.
+    * Hasta 2000 usuarios: US$ 48000 al año. Etc.
 
 Más info sobre precios ver en (https://es.atlassian.com/software/confluence/pricing)
 
