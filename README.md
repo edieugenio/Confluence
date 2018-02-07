@@ -105,3 +105,17 @@ La versión Cloud de Confluence permite comenzar de forma rápida y sencilla a u
 
 Más info sobre precios ver en (https://es.atlassian.com/software/confluence/pricing)
 
+## Casos de uso
+
+### Usando confluence para documentación técnica
+Una guía para el técnico sobre el uso de Confluence – see Develop Technical Documentation in Confluence.
+
+### Configurando una base de datos de conocimiento
+A support engineer's guide to using Confluence as a knowledge base – see Use Confluence as a Knowledge Base. You can also check out our handy guides on writing how-to and troubleshooting articles.
+
+### Configurando una Intranet
+A quick guide to setting up an intranet wiki – see Use Confluence as your Intranet.
+
+### Confluence para equipos de software
+A series of blog posts to help your agile team get the most out of Confluence. See Confluence for Software Teams.
+
